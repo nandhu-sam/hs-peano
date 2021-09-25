@@ -1,4 +1,6 @@
 
+module Peano (Peano (Zero)) where
+
 import GHC.Real ((%))
 
 data Peano = Zero 
